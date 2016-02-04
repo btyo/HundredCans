@@ -36,7 +36,7 @@ public class BeerSong {
                 System.out.println("Take one down, pass it around, " + beer + " bottle of beer on the wall.");
             }
             else{
-                System.out.println("Take one down, pass it around, " + beer + " bottles of beer on the wall.");
+                System.out.println("Take one down, pass it around, " + beer + " bottles of beer on the wall");
             }
         }
     }
